@@ -1,0 +1,6 @@
+*.log
+*.bsp
+*.pts
+vis.txt
+light.txt
+/autosave
